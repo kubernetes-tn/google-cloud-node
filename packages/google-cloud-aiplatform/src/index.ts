@@ -179,3 +179,9 @@ export {helpers};
 import {_enhance} from './decorator';
 _enhance('v1beta1');
 _enhance('v1');
+
+export {
+  TextEmbeddingModel,
+  TextEmbedding,
+  TextEmbeddingModelOptions,
+} from './text_embedding_model';
