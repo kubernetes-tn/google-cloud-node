@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+### Features
+
+* Add `TextEmbeddingModel` high-level API for generating text embeddings via Vertex AI, mirroring the Python SDK interface ([#2](https://github.com/kubernetes-tn/google-cloud-node/pull/2))
+
 ## [6.4.0](https://github.com/googleapis/google-cloud-node/compare/aiplatform-v6.3.0...aiplatform-v6.4.0) (2026-02-03)
 
 
